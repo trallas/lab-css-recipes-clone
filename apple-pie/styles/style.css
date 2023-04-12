@@ -15,10 +15,40 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
   font-weight: lighter;
 }
 
-/*  Set the font */
 body {
   font-family: "Helvetica", sans-serif;
 }
 
-/* STYLES */
-/* Write your CSS below */
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h2 {
+  margin-left: 70px;
+  margin-bottom: 30px;
+}
+
+.ingredients ul {
+  margin-left: 70px;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+.directions ol {
+  margin-left: 140px;
+  margin-bottom: 30px;
+  margin-right: 200px;
+  font-size: 20px;
+}
+.intro {
+  margin-left: 200px;
+  margin-bottom: 30px;
+  margin-right: 200px;
+  font-size: 24px;
+}
+.apple-pie {
+  color: white;
+  font-size: 44px;
+}
+
